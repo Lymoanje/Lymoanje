@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Kabir Jaipal</h1>
+<h1 align="center">Hi :wave:, I'm Lymoanje</h1>
 
 <img align="center" src="https://discord.c99.nl/widget/theme-1/498969254842859521.png" alt="Discord"/>
 
