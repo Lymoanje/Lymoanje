@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/Lymoanje">
-  <img src="https://i.imgur.com/t2jixCo.png"/>
+  <img src="https://discord.gg/XHptbdKAZ9"/>
   </a>
 </p>
 
